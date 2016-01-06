@@ -23,6 +23,8 @@ file system.
 
 ## How To Contribute
 
+Please fork this repository then issue a Pull request!
+
 ### Copyright
 
 2015 Douglas Web Designs Git.Training

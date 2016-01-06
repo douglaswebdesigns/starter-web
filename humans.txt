@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paul Douglas paul@douglaswebdesigns.com pDouglasDesigns
 
 # THANKS
 
